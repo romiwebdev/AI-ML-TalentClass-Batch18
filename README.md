@@ -37,3 +37,6 @@ This repository contains my learning journey through the **TalentClass Batch 18*
 - **Tech Stack:** Python, scikit-learn, Jupyter Notebook  
 - **Deliverables:** Trained model (`final_model.pkl`) and scaler (`scaler.pkl`)
 
+<!-- last-updated -->
+_Last updated: 2026-09-05_
+
